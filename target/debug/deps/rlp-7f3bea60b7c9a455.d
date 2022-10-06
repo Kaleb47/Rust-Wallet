@@ -1,0 +1,12 @@
+/Users/kalebamarante/rust-wallet/target/debug/deps/rlp-7f3bea60b7c9a455.rmeta: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/error.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/impls.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/rlpin.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/stream.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/traits.rs
+
+/Users/kalebamarante/rust-wallet/target/debug/deps/librlp-7f3bea60b7c9a455.rlib: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/error.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/impls.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/rlpin.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/stream.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/traits.rs
+
+/Users/kalebamarante/rust-wallet/target/debug/deps/rlp-7f3bea60b7c9a455.d: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/error.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/impls.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/rlpin.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/stream.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/traits.rs
+
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/lib.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/error.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/impls.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/rlpin.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/stream.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/rlp-0.5.1/src/traits.rs:

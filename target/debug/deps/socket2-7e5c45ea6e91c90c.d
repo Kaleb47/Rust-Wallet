@@ -1,0 +1,11 @@
+/Users/kalebamarante/rust-wallet/target/debug/deps/socket2-7e5c45ea6e91c90c.rmeta: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/kalebamarante/rust-wallet/target/debug/deps/libsocket2-7e5c45ea6e91c90c.rlib: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/kalebamarante/rust-wallet/target/debug/deps/socket2-7e5c45ea6e91c90c.d: /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs:
+/Users/kalebamarante/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs:
